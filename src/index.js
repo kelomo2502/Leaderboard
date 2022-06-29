@@ -9,19 +9,34 @@ const arr = [
 
   {
     user: 'Name',
-    score: '200',
+    score: '20',
 
   },
 
   {
     user: 'Name',
-    score: '300',
+    score: '50',
 
   },
 
   {
     user: 'Name',
-    score: '400',
+    score: '78',
+  },
+
+  {
+    user: 'Name',
+    score: '125',
+  },
+
+  {
+    user: 'Name',
+    score: '77',
+  },
+
+  {
+    user: 'Name',
+    score: '42',
   },
 ];
 
