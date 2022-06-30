@@ -1,6 +1,6 @@
 :root {
   --color-white: #fff;
-  --bg-secondary: #2C3639;
+  --bg-secondary: #8879B0;
   --background: #8879B0;
 }
 
@@ -46,7 +46,7 @@ header h1 {
 header a {
   padding: 8px;
   font-size: 18px;
-  color: black;
+  color: #fff;
   text-decoration: none;
   text-align: center;
   border-radius: 3px;
