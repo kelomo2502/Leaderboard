@@ -16,8 +16,8 @@ body {
   position: relative;
   line-height: 24px;
   font-weight: normal;
-  font-family: 'Balsamiq Sans', cursive;
   font-style: normal;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background: var(--background);
 }
 
