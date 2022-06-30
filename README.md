@@ -23,6 +23,7 @@ To get a local copy up and running:
 2. Navigate to the location of the folder in your machine:
 
 **``you@your-Pc-name:~$ cd <folder>``**
+**``Run npm install to install packages and npm start to launch development server ``**
 
 ## Author
 
